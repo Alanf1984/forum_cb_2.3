@@ -8,12 +8,12 @@
 html{
     font-size: 14px;
     font-family: 'Titillium Web', sans-serif;
-    background-color:rgb(0,0,0);
+    background-color:rgb(80, 79, 79);
     color:#FEFEFE;
 }
 
 a{
-    color:#FF0042;
+    color:#10f7ff;
     font-weight: bolder;
     text-decoration: none;
 }
@@ -134,7 +134,7 @@ header{
     align-items: center;
 }
 .navigation{
-    background-color:#ff1616;
+    background-color:#10f7ff;
     padding: 10px;
     width: 65%;
     display: inline-block;
@@ -227,12 +227,12 @@ header{
 
   /* Search Box styles */
 .search-box{
-    border: solid 1px hsl(0, 92%, 50%);
+    border: solid 1px #10f7ff;
     margin-top: 20px;
     padding: 40px;
     display:flex;
     justify-content: center;
-    box-shadow:1px 2px 3px #ff090988;
+    box-shadow:1px 2px 3px #10f7ff;
 }
 
 .search-box select{
@@ -279,7 +279,7 @@ header{
 footer{
     margin-top: 20px;
     padding: 20px;
-    background-color:  #ff1616;
+    background-color:  #10f7ff;
     display: block;
     text-align: center;
 }
