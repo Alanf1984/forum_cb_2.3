@@ -29,4 +29,4 @@ virtualenv==20.21.0
 virtualenvwrapper-win==1.2.7
 waitress==2.1.2
 whitenoise==6.4.0
-Django==3.1.7
+
